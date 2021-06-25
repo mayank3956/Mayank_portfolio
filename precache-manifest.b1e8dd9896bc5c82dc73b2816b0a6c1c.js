@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8bc65e45923a0c2ed7b695d9eb5880f7",
+    "revision": "84cd0a689b2a6f5e64a4cfb51cd7aca6",
     "url": "/Mayank_portfolio/index.html"
   },
   {
-    "revision": "97a9e69664440d003351",
+    "revision": "cc65cf4460379f8b9424",
     "url": "/Mayank_portfolio/static/css/2.afab92e9.chunk.css"
   },
   {
-    "revision": "2d4806fff9aa4ab54755",
+    "revision": "30d1df8478c3e3e922fc",
     "url": "/Mayank_portfolio/static/css/main.c624a2f5.chunk.css"
   },
   {
-    "revision": "97a9e69664440d003351",
-    "url": "/Mayank_portfolio/static/js/2.266f7a94.chunk.js"
+    "revision": "cc65cf4460379f8b9424",
+    "url": "/Mayank_portfolio/static/js/2.f230cc77.chunk.js"
   },
   {
     "revision": "c87e50d81cc7b5311525cc6fd5482ea5",
-    "url": "/Mayank_portfolio/static/js/2.266f7a94.chunk.js.LICENSE.txt"
+    "url": "/Mayank_portfolio/static/js/2.f230cc77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d4806fff9aa4ab54755",
-    "url": "/Mayank_portfolio/static/js/main.3df08d27.chunk.js"
+    "revision": "30d1df8478c3e3e922fc",
+    "url": "/Mayank_portfolio/static/js/main.ee72e62d.chunk.js"
   },
   {
     "revision": "53588a50f783fa79d60c",
@@ -106,10 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c210343b53607817219a80db3cebbf1d",
     "url": "/Mayank_portfolio/static/media/logo-black.c210343b.png"
-  },
-  {
-    "revision": "d13a07af1079666fb65d0eb17ae90253",
-    "url": "/Mayank_portfolio/static/media/logow.d13a07af.webp"
   },
   {
     "revision": "82291019f34ab54a677c456a84127cc3",

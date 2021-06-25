@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Mayank_portfolio/static/css/main.c624a2f5.chunk.css",
-    "main.js": "/Mayank_portfolio/static/js/main.ee72e62d.chunk.js",
-    "main.js.map": "/Mayank_portfolio/static/js/main.ee72e62d.chunk.js.map",
+    "main.js": "/Mayank_portfolio/static/js/main.e73a608e.chunk.js",
+    "main.js.map": "/Mayank_portfolio/static/js/main.e73a608e.chunk.js.map",
     "runtime-main.js": "/Mayank_portfolio/static/js/runtime-main.df7a4062.js",
     "runtime-main.js.map": "/Mayank_portfolio/static/js/runtime-main.df7a4062.js.map",
     "static/css/2.afab92e9.chunk.css": "/Mayank_portfolio/static/css/2.afab92e9.chunk.css",
-    "static/js/2.f230cc77.chunk.js": "/Mayank_portfolio/static/js/2.f230cc77.chunk.js",
-    "static/js/2.f230cc77.chunk.js.map": "/Mayank_portfolio/static/js/2.f230cc77.chunk.js.map",
+    "static/js/2.95b13161.chunk.js": "/Mayank_portfolio/static/js/2.95b13161.chunk.js",
+    "static/js/2.95b13161.chunk.js.map": "/Mayank_portfolio/static/js/2.95b13161.chunk.js.map",
     "index.html": "/Mayank_portfolio/index.html",
-    "precache-manifest.b1e8dd9896bc5c82dc73b2816b0a6c1c.js": "/Mayank_portfolio/precache-manifest.b1e8dd9896bc5c82dc73b2816b0a6c1c.js",
+    "precache-manifest.cab219fb2ff432ecd90d41d126669236.js": "/Mayank_portfolio/precache-manifest.cab219fb2ff432ecd90d41d126669236.js",
     "service-worker.js": "/Mayank_portfolio/service-worker.js",
     "static/css/2.afab92e9.chunk.css.map": "/Mayank_portfolio/static/css/2.afab92e9.chunk.css.map",
     "static/css/main.c624a2f5.chunk.css.map": "/Mayank_portfolio/static/css/main.c624a2f5.chunk.css.map",
-    "static/js/2.f230cc77.chunk.js.LICENSE.txt": "/Mayank_portfolio/static/js/2.f230cc77.chunk.js.LICENSE.txt",
+    "static/js/2.95b13161.chunk.js.LICENSE.txt": "/Mayank_portfolio/static/js/2.95b13161.chunk.js.LICENSE.txt",
     "static/media/React_ToDo_List.webp": "/Mayank_portfolio/static/media/React_ToDo_List.8897aeb6.webp",
     "static/media/Robofriends.webp": "/Mayank_portfolio/static/media/Robofriends.9730fefc.webp",
     "static/media/background.webp": "/Mayank_portfolio/static/media/background.bf989778.webp",
@@ -58,8 +58,8 @@
   "entrypoints": [
     "static/js/runtime-main.df7a4062.js",
     "static/css/2.afab92e9.chunk.css",
-    "static/js/2.f230cc77.chunk.js",
+    "static/js/2.95b13161.chunk.js",
     "static/css/main.c624a2f5.chunk.css",
-    "static/js/main.ee72e62d.chunk.js"
+    "static/js/main.e73a608e.chunk.js"
   ]
 }

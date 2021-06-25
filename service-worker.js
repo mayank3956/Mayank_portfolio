@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mayank_portfolio/precache-manifest.b1e8dd9896bc5c82dc73b2816b0a6c1c.js"
+  "/Mayank_portfolio/precache-manifest.cab219fb2ff432ecd90d41d126669236.js"
 );
 
 self.addEventListener('message', (event) => {

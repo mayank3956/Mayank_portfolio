@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84cd0a689b2a6f5e64a4cfb51cd7aca6",
+    "revision": "1ecd86d24a1ac84a66ce2dcd6ac5cfc9",
     "url": "/Mayank_portfolio/index.html"
   },
   {
-    "revision": "cc65cf4460379f8b9424",
+    "revision": "fd3d6b45d9963eb2cd60",
     "url": "/Mayank_portfolio/static/css/2.afab92e9.chunk.css"
   },
   {
-    "revision": "30d1df8478c3e3e922fc",
+    "revision": "17388a9e29dcffbbe633",
     "url": "/Mayank_portfolio/static/css/main.c624a2f5.chunk.css"
   },
   {
-    "revision": "cc65cf4460379f8b9424",
-    "url": "/Mayank_portfolio/static/js/2.f230cc77.chunk.js"
+    "revision": "fd3d6b45d9963eb2cd60",
+    "url": "/Mayank_portfolio/static/js/2.95b13161.chunk.js"
   },
   {
     "revision": "c87e50d81cc7b5311525cc6fd5482ea5",
-    "url": "/Mayank_portfolio/static/js/2.f230cc77.chunk.js.LICENSE.txt"
+    "url": "/Mayank_portfolio/static/js/2.95b13161.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30d1df8478c3e3e922fc",
-    "url": "/Mayank_portfolio/static/js/main.ee72e62d.chunk.js"
+    "revision": "17388a9e29dcffbbe633",
+    "url": "/Mayank_portfolio/static/js/main.e73a608e.chunk.js"
   },
   {
     "revision": "53588a50f783fa79d60c",

@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import Logo from "../../assets/icons/logow.webp";
 import "./my-navbar.styles.css";
 
 const MyNavbar = () => {
@@ -15,7 +14,6 @@ const MyNavbar = () => {
       >
         <div>
           <Navbar.Brand href="#home">
-            <img className="logo" src={Logo} alt="" />
           </Navbar.Brand>
         </div>
         <div>
